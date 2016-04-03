@@ -6,7 +6,7 @@ description:           TODO
 homepage:              https://github.com/spinda/glyph-cli#readme
 bug-reports:           https://github.com/spinda/glyph-cli/issues
 license:               GPL-3
-license-file:          LICENSE
+license-file:          COPYING
 author:                Michael Smith
 maintainer:            Michael Smith <michael@spinda.net>
 copyright:             2016 Michael Smith
