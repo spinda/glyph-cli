@@ -1,0 +1,6 @@
+resolver: lts-5.5
+compiler-check: newer-minor
+packages:
+- .
+- glyph
+
