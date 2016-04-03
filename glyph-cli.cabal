@@ -5,7 +5,7 @@ synopsis:              Command-line interface for the Glyph handwriting
 description:           TODO
 homepage:              https://github.com/spinda/glyph-cli#readme
 bug-reports:           https://github.com/spinda/glyph-cli/issues
-license:               BSD3
+license:               GPL-3
 license-file:          LICENSE
 author:                Michael Smith
 maintainer:            Michael Smith <michael@spinda.net>
